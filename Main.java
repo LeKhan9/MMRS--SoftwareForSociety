@@ -66,20 +66,6 @@ public class Main {
 		saveBST();
 	}
 	
-	/*
-	public static void studentOrAdmin() {
-		System.out.println("1: Student");
-		System.out.println("2: Administrator");
-		System.out.println();
-		System.out.print("Enter choice: ");
-		int x = scan.nextInt();
-		if (x == 1) {
-			studentInterface();
-		}
-		else if (x == 2) {
-			adminInterface();
-		}
-	}*/
 
 	public void printData() {
 		System.out.println("Student hash table");
