@@ -17,6 +17,9 @@ The program was made capable of being saved- thus any information entered was re
 
 Essentially each information input was converted to pure, basic byte form and written into a file. A process of De-Serialization was used to decode the byte information and reinstate the original data in the memory.
 
+Each data structure that was used was implemented from start to finish without any libraries. 
+BST, Stacks, Queues(Heap), and Hashtables were studied and utilized for the conditions below. 
+
 OBJECTS: 
 
 Each student record includes:
@@ -40,7 +43,6 @@ The best Idea is accessible in constant time.
 Adding new Ideas or deleting the best one (when bidding is completed) is done in O(lg n) time.
 Using the Student ID, the Student's email login can be retrieved in O(n) average time on average.
 
-BST, Heaps, Queues(Heap), and Hashtables are utilized for these conditions. 
 
 
 
