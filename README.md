@@ -5,6 +5,8 @@ MMRS--SoftwareForSociety
 
 Data Structures Final Project: Think Tank Software that Rates Ideas on Solving Societal Issues
 
+Team: Mohammad Khan '17, Matt Burns '16, Rodrigo Rogel-Perez '17, Scott Woods '16 (MMRS)
+
 The notion is that users will create Ideas tackling world issues and the best Ideas will be picked out from the database. Thus, not only the best Idea is found, but also the best user is found for employment. Essentially a bidding system. The database takes in Ideas from individuals, the ideas are rated, and the highest rated Idea will be bidded (the actual bidding has not yet been coded). A Graphical User Interface (GUI) is employed to make entering and reading information easier. There are two profiles - Student (or normal User) and Administrator. 
 
   To start the program , the file gui1.java should be run first. 
