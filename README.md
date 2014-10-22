@@ -28,7 +28,7 @@ Each student record includes:
 3) four digit SSN 
 4) four digit ID 
 5) last 10 ideas
-6) an average of the ratings oflast 10 ideas
+6) an average of the ratings of last 10 ideas
 
 Ideas are composed of:
 1) Idea number
